@@ -1,0 +1,24 @@
+# env files
+.env
+.env.local
+.env.*.local
+
+# node
+node_modules/
+.next/
+dist/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# whisper / models
+models/
+*.pt
+
+# audio
+*.wav
+
+# docker
+*.log
