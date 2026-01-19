@@ -1,0 +1,12 @@
+port: 7880
+
+bind_addresses:
+  - 0.0.0.0
+
+rtc:
+  tcp_port: 7881
+  port_range_start: 52000
+  port_range_end: 52100
+
+keys:
+  mylocalkey: a0f29d8686f179d2df97005be422024715ef04832f7ea33c6982c21e2e265d30

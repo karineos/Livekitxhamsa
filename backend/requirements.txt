@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+requests
+qdrant-client
+openai
+livekit-api
+python-multipart

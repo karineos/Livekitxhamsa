@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@livekit/rtc-node": "^0.13.23",
+    "dotenv": "^17.2.3",
+    "form-data": "^4.0.5",
+    "livekit-server-sdk": "^2.15.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module",
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
